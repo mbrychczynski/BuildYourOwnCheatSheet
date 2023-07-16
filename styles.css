@@ -1,0 +1,32 @@
+body {
+    background-color: #331D2C;
+    color: #A78295;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-block-end: 0.83em;
+    margin-block-start: 0.83em;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid #EFE1D1;
+    width: 650px;;
+    color: white;
+}
+thead {
+    background-color: #FF8989;
+}
+th {
+    font-weight: bold;
+}
+
+
+td, th {
+    display: table-cell;
+}
+
+td {
+    border-top: 1px solid #EFE1D1;
+}
